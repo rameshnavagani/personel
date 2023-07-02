@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-brand{
+    font-family: 'Pacifico', cursive;
+}
+.home-container{
+    margin-top: 5%;
+}
+.home-right-part{
+    background-color: #2D4356;
+    color: whitesmoke;
+    padding: 20px;
+    height: 100vh;
+}
+.box{
+    height: 50vh;
+    background-color: #1B9C85;
+    color: white;
+}
+.title{
+   border-bottom: 2px solid gray;
+}
+.home-content{
+    width: 75%;
+}
+.profile{
+    width: 110%;
+    height: 100%;
+}
+.designation{
+    color: gainsboro;
+    font-size: 25px;
+}
+.btns{
+    padding: 7px 14px;
+    margin: 5px;
+    text-decoration: none;
+}
+.btn-1{
+    background-color: whitesmoke;
+    color: #2D4356;
+}
+.btn-2{
+    border: 1px solid white;
+    color: whitesmoke;
+}
+.details-pic{
+    width: 100%;
+}
+.fa-calendar-days{
+    font-size: 30px;
+}
+.details-box{
+    width: 90%;
+    border-radius: 20px;
+    padding: 15px;
+}
+.fa-sharp{
+    color: #1B9C85;
+    font-size: 20px;
+}
+.social{
+    width: 100%;
+}
+.footer-container{
+    color: whitesmoke;
+    background-color: #1B9C85;
+    border-radius: 50px;
+}
+.modal-title, .modal-body{
+    color: black;
+}
+.popup-text{
+    font-size: 25px;
+}
+#gmail-logo{
+    width: 5%;
+}
